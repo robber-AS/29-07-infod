@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello, World!</h1>
       <br></br>
+      {/* comentario */}
       <img src={sp} alt="Sp-simbolo" />
       <i class="fa-brands fa-accessible-icon"></i>
     </div>
